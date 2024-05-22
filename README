@@ -1,0 +1,25 @@
+Welcome to MeowMeow Pizzamatics!
+
+MeowMeow Pizzamatics is an educational game designed to help young children enhance their mathematics skills in a fun and engaging way. The game features a cat making pizza, where correct answers result in the cat getting the pizza, while incorrect answers make the cat sad as the pizza is taken away.
+
+The only requirement to play the game is a version of Java 19 or later (and a device capable of downloading it)
+
+To run the software:
+1. Ensure the correct version of Java is downloaded on your device.   
+To download Java visit: https://www.java.com/en/download/help/download_options.html    
+For instructions on how to update Java's version visit: https://www.javatpoint.com/how-to-update-java#:~:text=There%20is%20an%20alternative%20way,on%20the%20Update%20Now%20button   
+To check your version, open the Command Prompt and type "java -version'  
+2. Download the zip folder containing the game.
+3. Extract the contents of the zip folder.
+4. Locate the .jar file (MeowMeowPizzamatics.jar) in the extracted folder.
+5. Double-click on the .jar file to run the game.
+6. Incase the .jar file does not run the game, run the GameScreen.java file directly
+
+As the software is distributed as a precompiled .jar file, there is no need to compile it. If the user still desires to compile the program from source code, they must run the "GameScreen.java" file, which yields the same outcome as executing the .jar file.
+
+Upon launching the game, users will be prompted to log in/register for an account. This account will save their progress and scores across sessions. Once logged in, users can start playing the game. The tutorial screen within the game provides instructions on how to play.
+
+To access the instructor side of the game:
+1. On the login/register screen, check the box indicating you are an instructor.
+2. You will be provided with a group code to give to your class.
+3. With this group code, instructors can access statistics of players associated with that group code.
